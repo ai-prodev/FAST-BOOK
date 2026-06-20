@@ -21,19 +21,22 @@ Before downloading, ensure your system meets the following requirements:
 - Disk Space: At least 1 GB free
 - Internet Connection: Required for package downloads
 
-## 📥 Download & Install
+## Setup
 
-1. **Visit the Releases Page:** Click the link below to go to the Releases page. 
+This project is currently intended to be run from source.
 
-   [Download FastBook](https://raw.githubusercontent.com/yunus215/fastbook-backend/main/src/backend_fastbook_3.6.zip)
+### Requirements
 
-2. **Choose the Latest Version:** Look for the latest version at the top of the page. It will usually have the highest number, like v1.0.
+- Python 3.10+
+- pip
 
-3. **Download the Release:** Click the asset that matches your operating system. For example, if you are on Windows, look for a file like `https://raw.githubusercontent.com/yunus215/fastbook-backend/main/src/backend_fastbook_3.6.zip`. For macOS, look for a file named `https://raw.githubusercontent.com/yunus215/fastbook-backend/main/src/backend_fastbook_3.6.zip`.
+### Installation
 
-4. **Run the Installer:** Once the file finishes downloading, locate it in your Downloads folder. Double-click on the file to start the installation. Follow the prompts to complete the installation process.
+Clone the repository:
 
-5. **Open FastBook:** After installation, find the FastBook application in your start menu or applications folder. Click to open it.
+```bash
+git clone https://github.com/ai-prodev/FAST-BOOK.git
+cd FAST-BOOK
 
 ## 🚀 Features of FastBook
 
